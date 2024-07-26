@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Full-Stack, Stack Overflow Clone!<br>🌱 I’m currently learning Web Application Security and Penetration Testing!<br>⚡ Fun fact: I enjoy gruvbox<br>
+🔭 Another 1337 hackerman<br>🌱 I do security research on the side, whilst exploring the world of computer science!<br>⚡ Fun fact: I enjoy gruvbox<br>
 
 
 ## 🌐 Socials:
